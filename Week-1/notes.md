@@ -21,3 +21,23 @@ __loop__
 	{
 		printf("hello, world\n");
 	}
+
+__conditional__
+
+{code} - what you want your code to do  
+\n - new line
+
+	if (x < y)
+	{
+		printf("x is less than y\n");
+	}
+	else if (x > y)
+	{
+		printf("x is greater than y\n");
+	}
+	else
+	{
+		printf("x is equal to y\n");
+	}
+
+source code -> compiler -> machine code (0 & 1)
